@@ -1,0 +1,9 @@
+D:\Angular 2\FirstAngular2Demo\FirstAngular2Demo\bin\FirstAngular2Demo.dll.config
+D:\Angular 2\FirstAngular2Demo\FirstAngular2Demo\bin\FirstAngular2Demo.dll
+D:\Angular 2\FirstAngular2Demo\FirstAngular2Demo\bin\FirstAngular2Demo.pdb
+D:\Angular 2\FirstAngular2Demo\FirstAngular2Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Angular 2\FirstAngular2Demo\FirstAngular2Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Angular 2\FirstAngular2Demo\FirstAngular2Demo\obj\Debug\FirstAngular2Demo.csproj.CoreCompileInputs.cache
+D:\Angular 2\FirstAngular2Demo\FirstAngular2Demo\obj\Debug\FirstAngular2Demo.dll
+D:\Angular 2\FirstAngular2Demo\FirstAngular2Demo\obj\Debug\FirstAngular2Demo.pdb
+D:\Angular 2\FirstAngular2Demo\FirstAngular2Demo\obj\Debug\FirstAngular2Demo.csprojResolveAssemblyReference.cache
